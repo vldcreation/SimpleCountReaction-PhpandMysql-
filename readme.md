@@ -1,12 +1,12 @@
 # Simple Count Reaction using PHP and MYSQL
 
 <p align="center">
-  <img src="https://github.com/vldcreation/PA1_Project06/blob/master/Screenshot%20(47).png" alt="Sublime's custom image"/>
+  <img src="https://github.com/vldcreation/SimpleCountReaction-PhpandMysql-/blob/master/Screenshoot/mockup.png" alt="Sublime's custom image"/>
 </p>
 
-<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vldcreation/SimpleCountReaction-PhpandMysql-?color=green">
   [![HitCount](http://hits.dwyl.com/vldcreation/SimpleCountReaction-PhpandMysql-.svg)](http://hits.dwyl.com/vldcreation/SimpleCountReaction-PhpandMysql-)
-  </div>
+
 
 How To Run:
 ```
