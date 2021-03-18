@@ -5,6 +5,7 @@
 </p>
 
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vldcreation/SimpleCountReaction-PhpandMysql-">
+![Visits](https://badges.pufler.dev/visits/vldcreation/simplecountreaction-phpandmysql-?style=for-the-badge)
 
 
 How To Run:
